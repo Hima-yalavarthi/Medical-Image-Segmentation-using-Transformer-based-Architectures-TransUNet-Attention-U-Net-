@@ -1,0 +1,16 @@
+torch
+torchvision
+torchaudio
+matplotlib
+numpy
+opencv-python
+albumentations
+scikit-learn
+monai
+tqdm
+einops
+scipy
+pandas
+ipykernel
+streamlit
+pillow
